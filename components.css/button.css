@@ -1,0 +1,11 @@
+.discover-btn {
+    padding: 15px 25px;
+    font-size: 1em;
+    color: rgb(235, 235, 235);
+    background-color: rgb(20, 20, 20);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 350px;
+  }
